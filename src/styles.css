@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.primary-nav {
+  background-color: aliceblue;
+  padding: 16px 32px;
+}
+
+.secondary-nav {
+  padding: 16px 32px;
+}
+
+nav a {
+  margin-right: 18px;
+}
